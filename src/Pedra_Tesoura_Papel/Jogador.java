@@ -1,8 +1,5 @@
 package Pedra_Tesoura_Papel;
 
-
-import java.lang.reflect.Array;
-
 public class Jogador {
     private String nome;
     private String jogada;

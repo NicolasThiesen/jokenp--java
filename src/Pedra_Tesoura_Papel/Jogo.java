@@ -1,8 +1,5 @@
 package Pedra_Tesoura_Papel;
 
-
-import java.util.Random;
-
 public class Jogo {
     private String resultado;
     private Jogador jogador;
