@@ -9,7 +9,7 @@ This is an simple Jokempo game maked on java. In the game you have to play again
 3. Choose Bettwen Pedra, Papel e Tesoura (Stone, Paper, Scissors).
 4. See the resoult about the game.
 
-## Maked By:
+## Made By:
 - [Leonardo Santos](https://github.com/SantosLeonard)
 - [Nicolas Ouriques](https://github.com/nicolasouri)
 - [Nícolas Medeiros Thiesen](https://github.com/NicolasThiesen)
