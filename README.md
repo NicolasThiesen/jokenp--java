@@ -1,4 +1,4 @@
-# Jokenpo Game Maked on Java ✊✋✌
+# Jokenpo Game Made on Java ✊✋✌
 
 ## About the game:
 This is an simple Jokempo game maked on java. In the game you have to play against with an IA and wins.
